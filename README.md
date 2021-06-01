@@ -1,5 +1,5 @@
 # tweet_scraper
 
-tweet scraper python code on Jupiter notebook
+tweet scraper python code on Jupyter notebook
 
 <img src = "/tweet_scraper.png">
